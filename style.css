@@ -1,0 +1,75 @@
+*{
+	margin:0px;
+}
+.form form{
+	width: 400px;
+	margin: auto;
+	padding: 20px;
+	border: solid 2px black;
+	margin-top: 100px;
+	border-radius: 5px;
+}
+ul{
+	height: 50px;
+	background-color: black;
+	color: white;
+}
+ul li{
+	float: right;
+	color: white;
+	padding: 10px;
+	list-style: none;
+}
+ul li a{
+	color: white;
+	text-decoration: none;
+	font-size: 15pt;
+}
+#profile{
+	margin-top: 0px;
+	width: 40px;
+	float: right;
+	padding-right:60px;
+	border: none;
+	margin-top: 0px;
+}
+
+.profile table{
+	width: 500px;
+	margin: auto;
+	margin-top: 100px;
+}
+.error{
+	color: red;
+}
+
+.success{
+	color: green;
+}
+input{
+	margin-top: 12px;
+}
+#info{
+	position: absolute;
+	top: 100px;
+	margin-left: 350px;
+}
+.pForms{
+	position: absolute;
+	margin-top: 250px;
+	margin-left: 350px;
+}
+.btn{
+	margin-top: 7px;
+	background-color: white;
+	color: black;
+	border: solid 1px black;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.btn:hover{
+	cursor: pointer;
+	background-color: black;
+	color: white;
+}
